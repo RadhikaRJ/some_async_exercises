@@ -1,5 +1,3 @@
-import "./styles.css";
-
 //exercise 2
 function calcLength(n) {
   console.log(`OMG! my name is ${n} char long!`);
